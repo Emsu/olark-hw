@@ -1,4 +1,4 @@
-# olark-homework
+# olark-hw
 
 Run the following command `python main.py <path-to-input-file>`
 
